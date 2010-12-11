@@ -1,7 +1,7 @@
 Summary:	NUT (Network UPS Tools) GUI Client
 Name:		nut-monitor
 Version:	1.1
-Release:	%mkrel 2
+Release:	%mkrel 3
 Group:		Monitoring
 License:	GPLv3+
 URL:		http://www.lestat.st/informatique/projets/nut-monitor-en
