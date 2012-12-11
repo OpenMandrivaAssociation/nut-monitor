@@ -1,7 +1,7 @@
 Summary:	NUT (Network UPS Tools) GUI Client
 Name:		nut-monitor
-Version:	1.3
-Release:	%mkrel 1
+Version:	1.1
+Release:	%mkrel 2
 Group:		Monitoring
 License:	GPLv3+
 URL:		http://www.lestat.st/informatique/projets/nut-monitor-en
@@ -79,3 +79,21 @@ rm -rf %buildroot
 %{_iconsdir}/%{name}.png
 %{_liconsdir}/%{name}.png
 %{_miconsdir}/%{name}.png
+
+
+%changelog
+* Mon Sep 14 2009 Thierry Vignaud <tvignaud@mandriva.com> 1.1-2mdv2010.0
++ Revision: 440354
+- rebuild
+
+* Wed Mar 11 2009 Oden Eriksson <oeriksson@mandriva.com> 1.1-1mdv2009.1
++ Revision: 353748
+- 1.1
+
+* Tue Sep 30 2008 Oden Eriksson <oeriksson@mandriva.com> 1.0-1mdv2009.1
++ Revision: 290080
+- import nut-monitor
+
+
+* Tue Sep 30 2008 Oden Eriksson <oeriksson@mandriva.com> 1.0-1mdv2009.0
+- initial Mandriva package
