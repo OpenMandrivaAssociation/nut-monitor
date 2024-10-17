@@ -4,7 +4,7 @@ Version:	1.1
 Release:	3
 Group:		Monitoring
 License:	GPLv3+
-URL:		http://www.lestat.st/informatique/projets/nut-monitor-en
+URL:		https://www.lestat.st/informatique/projets/nut-monitor-en
 Source0:	http://www.lestat.st/_media/informatique/projets/nut-monitor/%{name}-%{version}.tar.gz
 Requires:	pygtk2.0
 Requires:	pygtk2.0-libglade
